@@ -1,4 +1,4 @@
 # BMI
-BMI Calculator for Aurora OS
+Body mass index calculator for Aurora OS
 
 ![BMI Screenshot](/screenshot.png)
