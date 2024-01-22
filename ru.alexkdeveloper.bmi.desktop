@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.alexkdeveloper.bmi
+Exec=/usr/bin/ru.alexkdeveloper.bmi
+Name=BMI
+Name[ru]=ИМТ
+
+[X-Application]
+Permissions=
+OrganizationName=ru.alexkdeveloper
+ApplicationName=bmi
+ExecDBus=/usr/bin/ru.alexkdeveloper.bmi
